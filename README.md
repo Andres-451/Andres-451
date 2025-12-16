@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  🔭 I’m currently studyng at **Peñascal F5**
+  🔭 Studied at **Peñascal F5**
 
   🌱 I’m currently learning **SQL, Postman, MongoDB**
 
