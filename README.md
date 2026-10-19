@@ -12,11 +12,9 @@
 
   🔭 Studied at **Peñascal F5**
 
-  🌱 I’m currently learning **SQL, Postman, MongoDB**
+  🌱 I’m currently learning **SQL, Angular, Docker**
 
   💬 Ask me about **HTML, CSS, JavaScript ... or anything
-
-  ⚡ Fun fact **The fear of long words is called Hippopotomonstrosesquippedaliophobia**
 
 </div>
 
@@ -45,7 +43,7 @@
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   <br/>
 </div>
 
